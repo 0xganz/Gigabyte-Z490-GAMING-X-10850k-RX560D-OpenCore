@@ -1,0 +1,1 @@
+# Gigabyte-Z490-GAMING-X-10850k-RX560D-OpenCore
