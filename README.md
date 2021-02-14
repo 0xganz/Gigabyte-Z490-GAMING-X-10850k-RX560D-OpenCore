@@ -11,6 +11,7 @@
 * 电源: 海盗船 全模组电源 650W     
 * 无线网卡与蓝牙: BCM94360CD （蓝牙 wifi 2合一）
 
-
-<img src='.img/mac-info.jpg'>
-<img src='.img/hacintool-info.jpg'>
+</br>
+<img src='./img/mac-info.jpg'>
+</br>
+<img src='./img/hacintool-info.jpg'>
